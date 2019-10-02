@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravit.io -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   style="isolation:isolate"
+   viewBox="0 0 720 180"
+   width="720"
+   height="180"
+   id="svg3336"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="avatar.svg">
+  <metadata
+     id="metadata3417">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1000"
+     id="namedview3415"
+     showgrid="false"
+     inkscape:zoom="4"
+     inkscape:cx="103.94644"
+     inkscape:cy="67.150506"
+     inkscape:window-x="1366"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3343" />
+  <defs
+     id="defs3338">
+    <clipPath
+       id="_clipPath_niCe8SwdtRH2kV0Uej8ynSj0pvbZpTJo">
+      <rect
+         width="720"
+         height="180"
+         id="rect3341" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#_clipPath_niCe8SwdtRH2kV0Uej8ynSj0pvbZpTJo)"
+     id="g3343">
+    <path
+       d=" M 5.5 5.5 Q 0.633 11.391 0 22 L 22 22 L 22 0 Q 10.367 -0.391 5.5 5.5 Z "
+       fill="rgb(119,22,22)"
+       id="path3345" />
+    <path
+       d=" M 22 0 L 22 22 L 45 22 L 45 0 L 22 0 Z "
+       fill="rgb(119,22,22)"
+       id="path3347" />
+    <path
+       d=" M 45 0 L 45 22 L 67 22 L 67 0 L 45 0 L 45 0 Z "
+       fill="rgb(110,20,20)"
+       id="path3349" />
+    <path
+       d=" M 67 0 L 67 22 L 112 22 L 112 0 L 67 0 L 67 0 Z "
+       fill="rgb(131,29,29)"
+       id="path3351" />
+    <path
+       d=" M 112 0 L 112 22 L 135 22 L 135 0 L 112 0 L 112 0 Z "
+       fill="rgb(111,28,28)"
+       id="path3353" />
+    <path
+       d=" M 135 0 L 135 22 L 157 22 L 157 0 L 135 0 L 135 0 Z "
+       fill="rgb(123,33,33)"
+       id="path3355" />
+    <path
+       d=" M 157 0 L 157 22 L 180 22 Q 178.954 9.999 174.5 5.5 Q 170.046 1.001 157 0 Z "
+       fill="rgb(121,22,22)"
+       id="path3357" />
+    <path
+       d=" M 0 22 L 0 45 L 22 45 L 22 22 L 0 22 L 0 22 Z "
+       fill="rgb(134,27,27)"
+       id="path3359" />
+    <path
+       d=" M 22 22 L 22 45 L 45 45 L 45 22 L 22 22 L 22 22 Z "
+       fill="rgb(112,25,25)"
+       id="path3361" />
+    <path
+       d=" M 45 22 L 45 45 L 90 45 L 90 22 L 45 22 Z "
+       fill="rgb(121,28,28)"
+       id="path3363" />
+    <path
+       d=" M 90 22 L 90 45 L 157 45 L 157 22 L 90 22 L 90 22 Z "
+       fill="rgb(132,26,26)"
+       id="path3365" />
+    <path
+       d=" M 157 22 L 157 45 L 180 45 L 180 22 L 157 22 L 157 22 Z "
+       fill="rgb(121,32,32)"
+       id="path3367" />
+    <path
+       d="M 0,44.996093 0,67 l 179.9983,0 0,-22.003907 -179.9983,0 0,0 z"
+       id="path3369"
+       style="fill:#ffffff"
+       inkscape:connector-curvature="0" />
+    <path
+       d=" M 0 67 L 0 158 L 45 158 L 45 111.511 L 22 111.511 L 22 89.75 L 45 89.75 L 45 67 L 0 67 Z "
+       fill="rgb(0,0,0)"
+       id="path3381" />
+    <path
+       d=" M 45 67 L 45 90 L 67 90 L 67 67 L 45 67 L 45 67 Z "
+       fill="rgb(90,0,128)"
+       id="path3383" />
+    <path
+       d=" M 67 67 L 67 180 L 112 180 L 112 67 L 67 67 L 67 67 Z "
+       fill="rgb(0,0,0)"
+       id="path3385" />
+    <path
+       d=" M 112 67 L 112 90 L 135 90 L 135 67 L 112 67 L 112 67 Z "
+       fill="rgb(90,0,128)"
+       id="path3387" />
+    <path
+       d=" M 135 67 L 135 90 L 157 90 L 157 103.239 L 135 103.239 L 135 158 L 180 158 L 180 67 L 135 67 Z "
+       fill="rgb(0,0,0)"
+       id="path3389" />
+    <path
+       d=" M 22 90 L 22 112 L 45 112 L 45 90 L 22 90 L 22 90 Z "
+       fill="rgb(255,255,255)"
+       id="path3391"
+       style="fill:#ffffff" />
+    <image
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAyklEQVRIS7XUYQ3CQAyG4XcKmANwwBwMB0hgEnDAHAwHQwIOwAFIQAIOIF+yJsuFwTbaS+7f5Wmv7V0GvAhYGXAFSm9b8BnYRsA1cIiAK6CNgDfAJQKW+QQWnriap+XeQIP3QBORcQHcImCZD2DphVsp5LmWow/nXdYu09GHlfUJ2HmUI4WV9d2j1imsZF1e4idY+N//xxBsmetFzmrmN1i4an6c09BfsA3IqptzlWjUDcbCFkA3UHNtr4dGcyqcOgqkf0bbgupM+QZA+BYBCl591AAAAABJRU5ErkJggg=="
+       x="0"
+       y="158"
+       width="22"
+       height="22"
+       style=""
+       id="image3393" />
+    <image
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAWCAYAAAArdgcFAAAAMElEQVRIS2NkYGD4z0AjwDhqOLaQHQ0WrOltNFhGg4X4gmg0tYymltHUQnwIYFUJAJ6rFgE46XceAAAAAElFTkSuQmCC"
+       x="22"
+       y="158"
+       width="23"
+       height="22"
+       style=""
+       id="image3395" />
+    <path
+       d=" M 45 90 L 45 112 L 67 112 L 67 90 L 45 90 Z  M 112 90 L 112 112 L 135 112 L 135 90 L 112 90 L 112 90 Z "
+       fill="rgb(216,128,255)"
+       id="path3397" />
+    <path
+       d=" M 135 90 L 135 112 L 157 112 L 157 90 L 135 90 L 135 90 Z "
+       fill="rgb(255,255,255)"
+       id="path3399"
+       style="fill:#ffffff" />
+    <image
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAXCAYAAADgKtSgAAAAMUlEQVRIS2NkYGD4z0AjwDhqOLaQHQ0WrOltNFhGg4X4gmg0tYymltHUQnwI0D+1AAD2hBcBBPbFcgAAAABJRU5ErkJggg=="
+       x="135"
+       y="157"
+       width="23"
+       height="23"
+       style=""
+       id="image3401" />
+    <path
+       d=" M 45 112 L 45 135 L 67 135 L 67 112 L 45 112 Z  M 112 112 L 112 135 L 135 135 L 135 112 L 112 112 L 112 112 Z "
+       fill="rgb(72,0,102)"
+       id="path3403" />
+    <path
+       d=" M 45 135 L 45 157 L 67 157 L 67 135 L 45 135 Z  M 112 135 L 112 157 L 135 157 L 135 135 L 112 135 L 112 135 Z "
+       fill="rgb(50,0,71)"
+       id="path3405" />
+    <path
+       d=" M 45 157 L 45 180 L 67 180 L 67 157 L 45 157 Z  M 112 157 L 112 180 L 135 180 L 135 157 L 112 157 L 112 157 Z "
+       fill="rgb(36,0,51)"
+       id="path3407" />
+    <g
+       transform="matrix(1,0,0,1,205,25.547)"
+       id="g3409">
+      <text
+         transform="matrix(1,0,0,1,0,102.051)"
+         style="font-family:'Roboto';font-weight:700;font-size:110px;font-style:normal;fill:#ffffff;stroke:none;"
+         id="text3411">Minenash</text>
+    </g>
+    <image
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAs0lEQVRIS7XU4Q2CMBCG4bcbOAJuIhs4Am6AG8gGjoAjuIFs4AiMgBNorqGm8ENMel8Two+SJ9fvygXgjWAFETyo4LsK7lTwWQXXKjgo4AE4KOAOuCjgGnh4wy9gZz+yNxxjUMB7YPSGb0CT5plXFJZtBUzecLwJ+fT1qPgE9OuRXgLb8Y/rSkujsEa1eaYlFVuF1/nY8Ur9WltR2ECxpqRny/vuJ9gAuyrP7L3o8t/i/OEHjeIyttQWLvIAAAAASUVORK5CYII="
+       x="158"
+       y="158"
+       width="22"
+       height="22"
+       style=""
+       id="image3413" />
+  </g>
+</svg>
